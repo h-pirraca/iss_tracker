@@ -6,7 +6,7 @@ const Data = ({orbital}) => {
     const issLng = orbital.longitude;
     const issVel = orbital.velocity;
     const issAlt = orbital.altitude;
-    const issVis = orbital.visibility;
+    //const issVis = orbital.visibility;
 
     return (
     <div className='info'>
