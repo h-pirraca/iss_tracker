@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    justify-self: center;
+    align-self: flex-end;
+    padding-bottom: 10px;
+}
+
+h1{
+    font-size: 3vw;
+    font-weight: 500;
+    color: white;
+    margin-right: 30px;
+    flex-wrap: wrap;
+}
+
+img{
+    width: 15vw;
+    height: auto;
+}

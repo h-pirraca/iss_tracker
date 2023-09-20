@@ -1,0 +1,18 @@
+.info{
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+}
+
+.info-card{
+    margin: 10px 5px 5px 15px;
+    width: 200px;
+    height: fit-content;
+    padding: 5px 2px 5px 10px;
+    border: solid 2px;
+    border-color: #bcc9d6;
+    border-radius: 5px;
+    color: aliceblue;
+    justify-self: center;
+    align-self: flex-start;
+}
